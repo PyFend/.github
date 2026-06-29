@@ -2,4 +2,4 @@
 
 ### `PyFend`
 
-Cybersecurity CLI tools and Python libraries, written by Rust.
+Collection of cybersecurity tools in CLI and Python libraries that is written in Rust.
